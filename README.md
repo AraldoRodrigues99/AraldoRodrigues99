@@ -7,6 +7,7 @@
 - 💬 I'm acquainted with Data Visualization tools, such as Matplotlib, Seaborn, Plotly, Power BI and Tableau
 - 📫 How to reach me: araldo.f.c.r@gmail.com
 - 😄 Pronouns: he/him
+- 👨‍💻 Linkedin: https://www.linkedin.com/in/araldo-rodrigues-047b1a182/
 
 
 [![Araldo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AraldoRodrigues99&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AraldoRodrigues99/github-readme-stats#gh-light-mode-only)
